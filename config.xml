@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
  <widget xmlns = "http://www.w3.org/ns/widgets"
-   xmnls:gap = "http://phonegap.com/ns/1.0"
+   xmlns:gap = "http://phonegap.com/ns/1.0"
    example1 = "com.phonegap.example1"
    versionCode = "10"
    version ="1.0.0">
@@ -24,7 +24,7 @@
  <gap:plugin name="org.apache.cordova.dialogs" version="0.2.6"/>
  
  
- <!--colocar icono-->
+ <!--colocar icono app -->
  
  <icon src ="res/android/mdpi.png"/>
  </widget>
